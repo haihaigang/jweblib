@@ -1,0 +1,21 @@
+{
+    "name": "jweblib",
+    "description": "前端库",
+    "main": "index.js",
+    "dependencies": {
+        "grunt": "~0.4.5"
+    },
+    "devDependencies": {
+        "grunt-contrib-concat": "~0.4.0",
+        "grunt-contrib-watch": "^0.6.1"
+    },
+    "scripts": {
+        "dev": "grunt dev"
+    },
+    "repository": {
+        "url": "http://github.com/haihaigang/jweblib.git"
+    },
+    "author": "hgwang",
+    "license": "MIT",
+    "version": "0.0.1"
+}
